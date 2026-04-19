@@ -1,4 +1,4 @@
-# Calculator-project<br>
+# CURRENCY CONVERTER-Project<br>
 
 A simple desktop-based Currency Converter application built using Java, following Object-Oriented Programming (OOP) principles and a Swing-based GUI. This project demonstrates how to design a clean, modular application with an interactive user interface for converting currencies.<br>
 
