@@ -12,3 +12,6 @@ It performs basic arithmetic operations like:<br>
 *Subtraction<br>
 *multiplication<br>
 *Division<br>
+
+GUI OUTPUT:
+<img width="357" height="480" alt="Screenshot 2026-04-24 000044" src="https://github.com/user-attachments/assets/896fa4b3-0dbd-48df-bdea-5b04a3fad643" />
