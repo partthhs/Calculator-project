@@ -7,8 +7,8 @@ Java Swing Simple Calculator
 📌 Overview
 
 This project is a simple GUI-based calculator built using Java Swing.
-It performs basic arithmetic operations like:
-*Addition
-*Subtraction
-*multiplication
-*Division
+It performs basic arithmetic operations like:<br>
+*Addition<br>
+*Subtraction<br>
+*multiplication<br>
+*Division<br>
